@@ -1141,5 +1141,5 @@ var routeMatcher = (routes, headers) => {
 
 // pnp:/home/mamluk/Tier/esbuild-test/src/index.ts
 console.log("Hello World!");
-console.log({ routeMatcher });
 console.log({ notFoundRoute });
+console.log({ routeMatcher });

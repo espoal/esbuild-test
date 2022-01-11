@@ -1,4 +1,5 @@
 import { notFoundRoute } from './notFound'
+
 export { URLPattern } from 'urlpattern-polyfill/src'
 
 
